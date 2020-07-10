@@ -41,12 +41,12 @@
                         </div>
                     </div>
                     <div class="header-top_login2">
-                        <a href="<?php echo site_url('contact');?>">Hubungi Kami</a>
+                        <a href="<?php echo site_url('contact');?>">anak sayang</a>
                     </div>
                 </div>
                 <div class="col-xs-6 col-sm-4 col-md-3">
                     <div class="header-top_login mr-sm-3">
-                        <a href="<?php echo site_url('contact');?>">Hubungi Kami</a>
+                        <a href="<?php echo site_url('contact');?>">anak sayang</a>
                     </div>
                 </div>
             </div>
