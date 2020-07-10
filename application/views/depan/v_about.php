@@ -37,7 +37,7 @@
                             <span class="icon-envelope-open"></span>sukapura@gmail.com
                         </div>
                         <div class="header-top_list">
-                            <span class="icon-location-pin"></span>Cikalapa - Tanjungjaya - Kab Tasikmalaya
+                            <span class="icon-location-pin"></span>tasikmalaya
                         </div>
                     </div>
                     <div class="header-top_login2">
