@@ -34,10 +34,10 @@
                             <span class="icon-phone"></span>00 55 22 66
                         </div>
                         <div class="header-top_list">
-                            <span class="icon-envelope-open"></span>sukapura@gmail.com
+                            <span class="icon-envelope-open"></span>wawadutan@gmail.com
                         </div>
                         <div class="header-top_list">
-                            <span class="icon-location-pin"></span>tasikmalaya
+                            <span class="icon-location-pin"></span>singaparna
                         </div>
                     </div>
                     <div class="header-top_login2">
